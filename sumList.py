@@ -1,4 +1,4 @@
-def sum_lists(numbers):#The function sum_lists lists that holds one parameter: numbers
+def sum_lists(numbers):#The function sum_lists holds one parameter: numbers
 
     total = 0 #Initialize a variable total to 0 to hold the sum
 
